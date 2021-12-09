@@ -603,7 +603,7 @@ for elem in ventas_en_septiembre:
   else:
     print(f"En diciembre no hubo ventas")
 
-print("___________________________Total de ingresos mensuales y ventas mensuales___________________________")
+print("___________________________Total de ingresos anuales y ventas anuales___________________________")
 
 ventasen2019 = []
 for sale in lifestore_sales:
